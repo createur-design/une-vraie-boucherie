@@ -40,3 +40,44 @@ La recette se sera pas visible pour l'utilisateur mais uniquement pour le traite
 - mettre en ligne la solution  
   **Le travail se fera en équipe de 3 ou 4 maximum avec une méthodologie agile.**  
   ![](./images/logo@1000x.png)
+
+# Suggestion de calendrier par Christophe Romain
+
+## semaine 3
+
+présentation du projet, initiation à la modélisation UML
+savoir modéliser les interactions entre les différents composants du projet
+monter en compétance sur l'architecture symfony
+lister les entités, controleurs, vues nécessaire
+faire une cartographie du site avec les parcours utilisateurs possible (utiliser figma)
+faire une cartographie des relations entre les entités
+identifier l'interface client et l'interface marchant
+pas de code cette semaine
+
+## semaine 4
+
+apprendre l'utilisation de doctrine, créer les entitées identifiées semaine 3
+mettre à jour la base de donnée depuis symfony
+modifier une entitée, et assurer le fonctionnement de la migration
+s'assurer de bien contrôler la donnée, et savoir comment appliquer une modification
+concevoir la gestion du stock et des commandes de produit
+préparer une maquette du style du site, s'assurer que la conception est terminée.
+très peu de code, bonne maitrise de la donnée, comprehenssion de doctrine
+
+## semaine 5
+
+semaine de validation de la conceptualisation
+revue des différentes conception, discussions, améliorations
+validation après des formateurs
+écriture et formalisation de la doc
+c'est le moment de s'assurer d'avoir une vision claire de symfony
+
+## semaine 6 7 8
+
+développement site e-commerce
+
+## semaine 9
+
+Etude des solutions de paiement en ligne
+Intégration du paiement
+recette avec le client

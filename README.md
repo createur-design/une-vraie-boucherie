@@ -11,7 +11,8 @@ Ce brief sera ton brief **Chef d'oeuvre de fin de formation**. Il rassemble tout
 # le brief
 
 ![](./images/mockup_carte_recto_verso.jpg)
-La _Boucherie Benoît Paux_ vient d'ouvrir récemment son commerce. Expert en la matière et faisant la meilleure viande des Hauts-De-France (placement de produit 😅), son activité c'est bien développé. Un traiteur a rejoint l'équipe et comme tous les ans, il va proposé sa carte pendant les fêtes. Aujourd'hui les commandes se font par téléphone, directement à la boucherie et tout est noté sur un cahier (et oui le papier n'est pas mort).  
+La _Boucherie Benoît Paux_ vient d'ouvrir récemment son commerce. Expert en la matière et faisant la meilleure viande des Hauts-De-France (placement de produit 😅), son activité c'est bien développé.  
+🧑‍🍳 Un traiteur a rejoint l'équipe et comme tous les ans, il va proposer sa carte pendant les fêtes. Aujourd'hui les commandes se font par téléphone, directement à la boucherie et tout est noté sur un cahier (et oui le papier n'est pas mort).  
 Vous l'aurez compris, en tant que Dev on ne peut pas rester sans rien faire. Grâce à nos supers pouvoirs, on se doit de mettre en place une solution pour automatiser tout ça.  
 L'idée est simple, mettre en place un solution de prise de commande pour les clients.  
 Les commandes seront visibles via une interface admin pour le traiteur avec suivi.  
